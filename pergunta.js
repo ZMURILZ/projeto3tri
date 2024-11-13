@@ -1,59 +1,53 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Futebol',
+    'Qual time tem mais times da Champions League?',
+    'Real Madrid.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Futebol',
+    'Qual foi o 1º time da África a chegar na semi da copa do mundo?',
+    'Marrocos em 2022.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Futebol',
+    'Qual a seleção com maior número de titulos da copa do mundo?',
+    'Brasil, tem 5.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Futebol',
+    'Onde foi a primeira copa do mundo?',
+    'Uruguai.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Futebol',
+    'Qual jogador é considerado o melhor da história?',
+    'Pelé.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Futebol',
+    'Quando o Brasil ganhou a 1º Copa do mundo?',
+    '1958.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Futebol',
+    'Qual é a competição de seleções mais importante no Futebol?',
+    'Copa do mundo.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Futebol',
+    'Quantos jogadores ficam em campo para cada time?',
+    '11.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Futebol',
+    'Qual maior estádio do Brasil?',
+    'Maracãna.'
 )
